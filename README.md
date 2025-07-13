@@ -12,6 +12,8 @@ Choose a contributor who’s under 100 commits but active and willing to reach t
 
 ## 🛠️ Step 3: Plan regular contributions
 For the chosen contributor, draft a multi-week plan to add varied, valuable contributions:
+![Image](https://github.com/user-attachments/assets/39d96159-7a9c-48f8-9654-012e77a26fc9)
+
 
 Issue triage & bug fixes
 Tackle tagged issues like “bug,” “help wanted,” or “good first issue”
@@ -28,6 +30,9 @@ Add new test cases (unit, integration, E2E)
 Build example DApps or snippets for docs
 Target 2–3 commits per week over ~16 weeks, and the contributor will surpass 100 commits easily.
 
+![Image](https://github.com/user-attachments/assets/52c56ede-f2b9-434e-bef5-46b174960c1c)
+
+
 ## 🧭 Step 4: Assign tasks with issues/labels
 Use GitHub issues to assign clear tasks.
 For example:
@@ -36,6 +41,9 @@ Write type coverage for method X
 Refactor module Y for better async handling
 Add test suite for feature Z
 Label issues as "good first issue" or "documentation" to encourage participation.
+
+![Image](https://github.com/user-attachments/assets/2c4d1e19-e7b8-4ac5-8e70-8bb43e4c08eb)
+
 
 ## 🔁 Step 5: Regularly review and merge PRs
 Quickly provide feedback on pull requests.
