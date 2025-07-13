@@ -1,0 +1,52 @@
+📍 Step 1: Choose the Target Project
+A well-known project is MaxHalford/chime — a Python library that plays notification sounds on command-line events (like success, error, warning).
+
+You can also contribute to forks or spin-off projects that use Chime in larger CLI or automation tools.
+
+🔍 Step 2: Assess Current Contributions
+Go to:
+GitHub → Insights → Contributors
+
+Look at current contributors and their commit counts.
+
+Choose a contributor (you or a teammate) with fewer than 100 commits and aim to build from there.
+
+🧠 Step 3: Plan Regular Contributions
+To reach 100 commits, break it down like this:
+
+2–3 commits per week for 10–15 weeks.
+
+Here are example contribution types:
+
+Area	Examples
+🐞 Bug Fixes	Platform-specific issues (e.g., Mac sound issues)
+🎨 New Features	CLI flags, volume control, theme previews
+🔊 New Themes	Add .wav sounds (e.g., Mario, Zelda, anime, alerts)
+🧪 Tests & CI	Add cross-platform tests, GitHub Actions, Windows/macOS checks
+📄 Documentation	Improve README, write usage examples, update changelogs
+
+📝 Step 4: Assign Issues and Tasks
+Break your goals into GitHub Issues so you can track them clearly. Examples:
+
+"Add --theme list option to CLI"
+
+"Improve Windows compatibility for warning sound"
+
+"Add GitHub Actions to run tests on Ubuntu & macOS"
+
+"Add 3 new .wav themes to sound library"
+
+This also helps others join and keeps commits focused.
+
+🔁 Step 5: Make and Review Pull Requests
+Each pull request:
+
+Should be small and focused
+
+Can contain 1–5 commits
+
+Should include relevant unit tests (if applicable)
+
+Should follow style and code standards
+
+Regular PR reviews and merges will steadily increase your commit count.
